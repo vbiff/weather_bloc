@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-Weather applicatiuon for checcking the weather around the world
+Weather applicatiuon for checking the weather around the world
